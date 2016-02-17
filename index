@@ -14,9 +14,18 @@
 
 <body>
   <div class="container">
-    <div  class="menu-icon">
+    <script type="text/javascript" src="js/mainjs.js"></script>
 
+    <div  class="menu-icon">
     </div>
+
+    <div class="links">
+      <a href="#" target="_blank" class="nav">Home</a>
+      <a href="#" target="_blank" class="nav">About</a>
+      <a href="#" target="_blank" class="nav">Contact</a>
+      <a href="#" target="_blank" class="nav"><span class="glyphicon glyphicon-search"></a>
+    </div>
+
     <div class="text">
       <p>unicorns are</p>
       <p>
@@ -27,22 +36,26 @@
         <span class="word blush">wunderbar.</span>
       </p>
     </div>
-    <div class="links">
-      <a href="#" target="_blank" class="nav">Home</a>
-      <a href="#" target="_blank" class="nav">About</a>
-      <a href="#" target="_blank" class="nav">Contact</a>
-      <a href="#" target="_blank" class="nav"><span class="glyphicon glyphicon-search"></a>
 
-    </div>
     <div class="undertext">
       <p>
         biggest thing to happen to the unicorn since the unicorn
       </p>
-
     </div>
 
-    <div class="scroll-indicator fa fa-chevron-down"></div>
+    <div class="undertext2">
+      <p>
+        biggest thing to happen to the unicorn since the unicorn
+      </p>
+    </div>
 
+    <div class="scroll-indicator fa fa-chevron-down" onclick="scrollWin(0,1000)"></div>
+
+      <script>
+        function scrollWin(x, y) {
+            window.scrollBy(x, y);
+          }
+      </script>
     <div>
         <script type="text/javascript" src="js/rotating.js"></script>
     </div>

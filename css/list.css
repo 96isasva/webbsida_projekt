@@ -1,0 +1,9 @@
+ul.demo1 li{ /* initial CSS for demo 1 (before it's animated) */
+opacity: 0; /* animate opacity into view */
+left: -100%; /* animate left property into view */
+}
+
+ul.demo1-after li{ /* Post CSS for demo 1 (after it's animated). "demo1-after" dynamically added to UL */
+opacity: 1;
+left: 0;
+}

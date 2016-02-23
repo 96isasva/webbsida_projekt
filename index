@@ -9,24 +9,26 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
   <script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <script src="js/scroll.js"></script>
+  <script src="js/list.js"></script>
+
 
 </head>
 
 <body>
   <div class="container">
-    <script type="text/javascript" src="js/mainjs.js"></script>
 
     <div  class="menu-icon">
     </div>
 
-    <div class="links">
+    <div class="links" id="top">
       <a href="#" target="_blank" class="nav">Home</a>
-      <a href="#" target="_blank" class="nav">About</a>
-      <a href="#" target="_blank" class="nav">Contact</a>
+      <a href="#test2" target="_blank" class="nav">About</a>
+      <a href="#test" target="_blank" class="nav">Contact</a>
       <a href="#" target="_blank" class="nav"><span class="glyphicon glyphicon-search"></a>
     </div>
 
-    <div class="text">
+    <div class="text" id="test">
       <p>unicorns are</p>
       <p>
         <span class="word aqua">fluffy.</span>
@@ -37,7 +39,7 @@
       </p>
     </div>
 
-    <div class="undertext">
+    <div class="undertext" id="test2">
       <p>
         biggest thing to happen to the unicorn since the unicorn
       </p>
@@ -49,13 +51,9 @@
       </p>
     </div>
 
-    <div class="scroll-indicator fa fa-chevron-down" onclick="scrollWin(0,1000)"></div>
+    <div class="scroll-indicator fa fa-chevron-down">
+    </div>
 
-      <script>
-        function scrollWin(x, y) {
-            window.scrollBy(x, y);
-          }
-      </script>
     <div>
         <script type="text/javascript" src="js/rotating.js"></script>
     </div>

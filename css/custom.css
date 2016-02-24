@@ -1,7 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:600);
-@import url(http://fonts.googleapis.com/css?family=Bebas+Neue:600);
 body div{
-  font-family: 'Open Sans', sans-serif, 'Bebas Neue' ;
+  font-family: 'Open Sans';
   font-weight: 600;
   font-size: 40px;
 }
@@ -13,7 +12,7 @@ div .container {
 }
 
 div .links {
-  margin-right: -60px;
+  margin-right: -10px;
   float: right;
 }
 
@@ -59,15 +58,22 @@ p {
 
 div .undertext{
   font-size: 25px;
-  text-align: center;
-  margin-top: 800px;
-  top: 50%
+
+  left: 50%;
+  margin-left: -301px;
+  height: 40px;
+  top: 75%;
+  margin-top: -20px;
+
 }
 div .undertext2{
-  font-size: 25px;
-  text-align: center;
-  margin-top: 16000px;
-  top: 50%
+  font-size: 40px;
+  position: absolute;
+  left: 50%;
+  margin-left: -301px;
+  height: 40px;
+  top: 150%;
+  margin-top: -20px;
 }
 div .word {
   position: absolute;

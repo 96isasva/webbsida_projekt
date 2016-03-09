@@ -41,13 +41,10 @@ div .links a:last-child {
 }
 
 div .text {
-  position: absolute;
-  width: 450px;
-  left: 50%;
-  margin-left: -225px;
-  height: 40px;
-  top: 50%;
-  margin-top: -20px;
+  text-align: center;
+  position: relative;
+  margin-top: 500px;
+  margin-left: -260px;
 }
 
 p {
@@ -57,24 +54,35 @@ p {
 }
 
 div .undertext{
+  position: relative;
+  text-align: center;
+  margin-top: 100px;
   font-size: 25px;
 
-  left: 50%;
-  margin-left: -301px;
-  height: 40px;
-  top: 75%;
-  margin-top: -20px;
+}
 
+div .flufftext1{
+  position: relative;
+  text-align: center;
+  margin-top: 700px;
+  font-size: 25px;
 }
+
 div .undertext2{
-  font-size: 40px;
-  position: absolute;
-  left: 50%;
-  margin-left: -301px;
-  height: 40px;
-  top: 150%;
-  margin-top: -20px;
+  position: relative;
+  text-align: center;
+  margin-top: 35px;
+  font-size: 35px;
 }
+
+div .undertext3{
+  position: relative;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  color: gray;
+}
+
 div .word {
   position: absolute;
   width: 260px;

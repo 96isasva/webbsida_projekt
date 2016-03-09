@@ -29,8 +29,8 @@
     </div>
 
     <div class="text" id="test">
-      <p>unicorns are</p>
-      <p>
+      <p class="text-center">unicorns are</p>
+      <p class="text-center">
         <span class="word aqua">fluffy.</span>
         <span class="word papaya">independent.</span>
         <span class="word blue">sweet.</span>
@@ -40,16 +40,33 @@
     </div>
 
     <div class="undertext" id="test2">
-      <p>
-        biggest thing to happen to the unicorn since the unicorn
+      <p class="text-center">
+        biggest thing to happen to the unicorn since the unicorn.
+      </p>
+    </div>
+
+
+
+    <div class="flufftext1">
+      <p class="text-center">
+        Hyper-fluff
       </p>
     </div>
 
     <div class="undertext2">
-      <p>
-        The next generations of unicorns
+      <p class="text-center">
+        The next generations of Multi-fluff.
       </p>
     </div>
+
+    <div class="undertext3">
+      <p class="text-center">
+        The original unicorn introduced the world to Multi-Fluff, forever changing the way people experience soft things. With Hyper-Fluff, you can do things that were never possible before. It senses how nice you are, letting you do all kinds of cool things more softly and simply. And it gives you real-time feedback in the form of subtle bounce from the all-new bounce Engine.
+      </p>
+    </div>
+
+
+
 
     <div class="scroll-indicator fa fa-chevron-down">
     </div>

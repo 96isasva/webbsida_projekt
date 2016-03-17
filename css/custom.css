@@ -66,6 +66,7 @@ div .flufftext1{
   text-align: center;
   margin-top: 700px;
   font-size: 25px;
+  color: rgb(104,104,104);
 }
 
 div .undertext2{
@@ -80,7 +81,65 @@ div .undertext3{
   text-align: center;
   margin-top: 20px;
   font-size: 20px;
-  color: gray;
+  color: rgb(104,104,104);
+}
+
+div .row{
+  text-align: center;
+  margin-top: 150px;
+  position: relative;
+}
+
+#middle{
+  font-size: 45px;
+  position: relative;
+  margin: 0;
+}
+
+#upper{
+
+  font-size: 12px;
+  position: relative;
+  text-align: left;
+  color: rgb(157,157,157);
+}
+
+#bottom {
+  font-size: 12px;
+  position: relative;
+  text-align: right;
+  color: rgb(157,157,157);
+}
+
+#footer {
+}
+
+#moreways {
+  font-size: 10px;
+  text-align: center;
+  color: rgb(157,157,157);
+}
+
+#copyright {
+  font-size: 10px;
+  text-align: center;
+  color: rgb(157,157,157);
+  border-top: 1px solid rgb(242,242,242);
+}
+
+#footerlink {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 10px;
+  text-align: center;
+  border-right: 1px solid rgb(242,242,242)
+}
+
+#footerlinklast {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 10px;
+  text-align: center;
 }
 
 div .word {

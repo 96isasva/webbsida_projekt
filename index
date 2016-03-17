@@ -45,6 +45,9 @@
       </p>
     </div>
 
+    <div class="scroll-indicator fa fa-chevron-down">
+    </div>
+
 
 
     <div class="flufftext1">
@@ -68,8 +71,85 @@
 
 
 
-    <div class="scroll-indicator fa fa-chevron-down">
+    <div class="flufftext1">
+      <p class="text-center">
+        Technology
+      </p>
     </div>
+
+    <div class="undertext2">
+      <p class="text-center">
+        Candy-floss. The most advanced feature ever in a unicorn.
+      </p>
+    </div>
+
+    <div class="undertext3">
+      <p class="text-center">
+        Unicorns with Hyper-fluff is powered by the custom-designed double flavored Candy-floss. It delivers performance once found only in huge dragons. You’ll experience up to 70 percent faster sweetness performance, and up to 90 percent faster fluff performance for all your favorite dreams.
+      </p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4">
+        <p id="upper">up to</p>
+        <p id="middle">2x</p><br />
+        <p id="bottom">candy-floss</p>
+      </div>
+      <div class="col-md-4">
+        <p id="upper">up to</p>
+        <p id="middle">2x</p><br />
+        <p id="bottom">candy-floss</p>
+      </div>
+
+      <div class="col-md-4">
+        <p id="upper">up to</p>
+        <p id="middle">2x</p><br />
+        <p id="bottom">candy-floss</p>
+      </div>
+    </div>
+
+
+
+
+    <div class="flufftext1">
+      <p class="text-center">
+        Design
+      </p>
+    </div>
+
+    <div class="undertext2">
+      <p class="text-center">
+        A breakthrough design.
+Pushed even further.
+      </p>
+    </div>
+
+
+    <div class="undertext3">
+      <p class="text-center">
+Innovation isn’t always obvious to the eye, but look a little closer at unicorn 2.0 and you’ll find it’s been fundamentally improved. The enclosure is made from a new alloy of 7000 Series silky hair — the same grade used in the santas workshop. The cover layer is the strongest, most durable shell used in any unicorn. And a new rose gold finish joins space gray, silver, and gold.      </p>
+    </div>
+
+    <div class="row">
+      <div class="col-md-4">
+
+        <p id="middle">2x</p><br />
+        <p id="bottom">candy-floss</p>
+      </div>
+      <div class="col-md-4">
+
+        <p id="middle">4k</p><br />
+        <p id="bottom">candy-floss</p>
+      </div>
+
+      <div class="col-md-4">
+
+        <p id="middle">2x</p><br />
+        <p id="bottom">candy-floss</p>
+      </div>
+    </div>
+
+
 
     <div>
         <script type="text/javascript" src="js/rotating.js"></script>

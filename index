@@ -150,6 +150,17 @@ Innovation isn’t always obvious to the eye, but look a little closer at unicor
     </div>
 
 
+    <div class="row" id="footer">
+      <div class="col-md-3" id="copyright">
+Copyright © 2016 Apple Inc. All rights reserved.
+</div>
+      <div class="col-md-1" id="footerlink">.col-md-4</div>
+      <div class="col-md-1" id="footerlink">.col-md-4</div>
+      <div class="col-md-1" id="footerlink">.col-md-4</div>
+      <div class="col-md-1" id="footerlinklast">.col-md-4</div>
+    </div>
+
+
 
     <div>
         <script type="text/javascript" src="js/rotating.js"></script>
